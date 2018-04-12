@@ -1,3 +1,22 @@
+Launch ConEmu or CMDER with choice of shell from sublimetext3
+=============================================================
+
+This is my tweak of  of [tianjianchn Sublime_ConEmu](https://github.com/tianjianchn/Sublime_ConEmuOpen).
+
+## TODO
+- add config file for path to shells and launch commands
+
+
+------
+review also:
+  [Kristinita fork](https://github.com/Kristinita/Sublime_ConEmuOpen)
+  [d4n13lbc fork](https://github.com/d4n13lbc/Sublime_ConEmuOpen)
+  [CesarDevsa fork](https://github.com/CesarDevesa/Sublime_ConEmuOpen)
+
+
+-----------------
+# original
+
 Launch [ConEmu](https://github.com/Maximus5/ConEmu) from the current or project root folder
 =================================
 Only works for sublime text 3 on windows!
